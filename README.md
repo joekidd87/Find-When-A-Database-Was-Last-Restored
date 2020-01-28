@@ -14,7 +14,8 @@
 
 ## About-Process
 
-<p>  This simple script will show you when databases were restored. It helps you find the restore history of any or all databases.</p>      
+<p>This simple script will show you when databases were restored. It helps you find the restore history of any or all databases.</p>      
+
 ## SQL-Logic
 ```SQL
 elect
